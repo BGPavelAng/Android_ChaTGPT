@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
         val request: Request = Request.Builder()
 
             .url(linkToURL)
-            .header("Authorization", "Bearer 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")
+            .header("Authorization", "Bearer APIKEY")
             .post(requestBd)
             .build()
         nuevoCall.newCall(request).enqueue(object : Callback {
