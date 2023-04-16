@@ -4,7 +4,7 @@ App de Android para utilizar ChatGPT con código Kotlin
  
 ¡¡ACTUALIZACIÓN!!
 
-El proyecto sigue avanzando, si quieres este completo con la versión GTP-3 Turbo comprame un cafe en mi patron y te lo mandaré
+El proyecto sigue avanzando, si quieres este código completo con la versión GPT-3 Turbo comprame un cafe en mi patron y te lo mandaré
 
 https://www.patreon.com/BGPavelAng
 
